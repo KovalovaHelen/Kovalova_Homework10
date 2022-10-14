@@ -27,4 +27,3 @@ for j in range(7):
     for i in range(4):
         if S[0][j] > S[3][j]:
             print(S[i][j], end=" ")
-            print()
